@@ -4,10 +4,9 @@ Movie App is a sleek, responsive application built with Flutter, designed to bri
 
 ## ✨ Features
 - **Responsive UI:** Optimized for both Android and Web.
-- **Dark and Light Modes:** Seamlessly toggle between light and dark themes for a comfortable viewing experience.
 - **Explore Popular, Upcoming, and Now Playing Movies:** See the latest movies with details fetched dynamically from the TMDb API.
 - **Advanced Search:** Quickly find movies by title and browse through a visually rich list of suggestions.
-- **Splash Screen:** A beautiful splash screen that welcomes users before entering the main app.
+- **New & Hot Screen:** A beautiful New and Hot Screen Shows Upcoming Movies Details.
 
 ## 📹 Video Demo
 Watch the video demonstration of the Movie App to see its features in action:
@@ -21,22 +20,28 @@ Replace `YOUR_VIDEO_ID` with the actual ID of your video on YouTube or any other
 ### Home Screen
 Displays trending movies with a carousel and categorized sections for popular, upcoming, and top-rated movies.
 
-![Home Screen](path/to/home_screen_screenshot.png)
+![Home Screen](https://github.com/user-attachments/assets/582de2de-7e75-4486-9662-81aa3a5de5b3)
 
 ### Movie Search
 A powerful search bar with popular movie results. Easily switch between light and dark modes for an adaptive UI experience.
 
-![Movie Search](path/to/movie_search_screenshot.png)
+![Movie Search1](https://github.com/user-attachments/assets/c0baa679-ac02-4061-9422-0f98b4fb7e9d)
+![Movie Search2](https://github.com/user-attachments/assets/833beffe-bc37-4b2d-a350-d34aae58a934)
+
 
 ### Movie Details
 Detailed view of a selected movie, showing relevant data like release date, synopsis, and more.
 
-![Movie Details](path/to/movie_details_screenshot.png)
+![Movie Details](https://github.com/user-attachments/assets/ca6643d4-d1b7-467c-ba04-215c9199056e)
 
-### Splash Screen
-A visually appealing splash screen that enhances the user experience upon app launch.
+### Hot & New Screen
+Hot and New Screens Shows Upcoming Movies Details.
 
-![Splash Screen](path/to/splash_screen_screenshot.png)
+![Hot& New Screen](https://github.com/user-attachments/assets/1e1b201a-1830-49b1-9836-93614fad2189)
+![Hot& New Screen](https://github.com/user-attachments/assets/2c5f22af-8679-4636-86a5-675041b09787)
+
+
+
 
 ## 📃 License
 This project is licensed under the MIT License.
