@@ -16,6 +16,8 @@ Watch the video demonstration of the Movie App to see its features in action:
 Replace `YOUR_VIDEO_ID` with the actual ID of your video on YouTube or any other platform where your video is hosted.
 
 ## 📸 Screenshots
+![Untitled design - Copy](https://github.com/user-attachments/assets/80d26a0d-bb83-4329-bc45-63981733cd18)
+
 
 ### Home Screen
 Displays trending movies with a carousel and categorized sections for popular, upcoming, and top-rated movies.
